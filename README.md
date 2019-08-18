@@ -4,10 +4,10 @@ This is my repo that houses all of the files I used for the Great Oko's classes 
 
 ## Folder Layout
 
-It is basically split into semester one (557) and semester two (558). You'll notice that semester one is much more dense - probably beacuse there was a lot more homowork and any more design problems.
+It is basically split into semester one (557) and semester two (558). You'll notice that semester one is much more dense - probably beacuse there was a lot more homowork and many more design problems.
 
 The second semester was much more senior design and economics. Less homework, so probably less useful.
 
-Please enjoy and try not to stress too much - everyone gets a B anyways ¯\_(ツ)_/¯
+Please enjoy and try not to stress too much - everyone gets a B anyways  ¯\_(ツ)_/¯
 
 Nathan <3
