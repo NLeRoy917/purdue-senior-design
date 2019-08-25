@@ -73,7 +73,7 @@ end
 for i = 1:1:num_time_steps %iterate through each time point
     T(i,num_slices+1) = T_steam; %set outermost slice/layer to the steam temperature.
 end
-
+for i = 1:1:num_time_steps-1 %incrementing for loop
     for n = num_slices:-1:1 %decrementing for loop, Start at outside slice and move inward.
 
         % Print statements for debugging
